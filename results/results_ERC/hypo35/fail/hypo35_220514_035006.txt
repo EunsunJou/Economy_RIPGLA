@@ -1,0 +1,33 @@
+RIP/OT-GLA learning results
+Algorithm: Amended(LW) Configuration
+Grammar changed 10744/62000 times
+Plasticity: 1.0
+Noise: 2.0
+Constraints and ranking values
+FootBin	102.88333333333338
+Iambic	94.33333333333333
+Nonfinal	93.44999999999995
+WSP	81.99999999999999
+WFR	72.93333333333338
+AFL	-1365.8000000000236
+Main-R	-1366.15
+Parse	-1368.3166666666666
+Main-L	-1883.8000000000777
+WFL	-2287.500000000012
+Trochaic	-3408.2499999999845
+AFR	-5838.783333333442
+Overt forms that were never learned:[L L2 L L1 L L L]
+
+12 words not (fully) learned in evaluation (target, learned form, (learned parse), count):
+[H2 H2 L L1 L] [H2 H1 L L L] /(H2) (H1) L L L/
+[L H2 L L1 H] [L H1 L L H] /(L H1) L L H/
+[L H2 L L1 L] [L H1 L L L] /(L H1) L L L/
+[H2 L L1 L L] [H1 L L L L] /(H1) L L L L/
+[H2 H2 L L1 H] [H2 H1 L L H] /(H2) (H1) L L H/
+[L L2 L L1 L] [L L1 L L L] /(L L1) L L L/
+[H2 L L1 H] [H1 L L H] /(H1) L L H/
+[L L2 L L1 H] [L L1 L L H] /(L L1) L L H/
+[L L2 L L1 L L L] [L L1 L L L L L] /(L L1) L L L L L/
+[H2 L L1 L] [H1 L L L] /(H1) L L L/
+[L L2 L L1 L L] [L L1 L L L L] /(L L1) L L L L/
+[H2 L L1 L H] [H1 L L L H] /(H1) L L L H/

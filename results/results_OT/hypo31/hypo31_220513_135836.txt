@@ -1,0 +1,27 @@
+RIP/OT-GLA learning results
+Algorithm: Original Configuration
+Grammar changed 34133/62000 times
+Plasticity: 1.0
+Noise: 2.0
+Constraints and ranking values
+Main-L	101.0
+WFL	100.0
+Trochaic	97.83333333333333
+Parse	-2165.466666666709
+WFR	-2166.3000000000416
+Nonfinal	-2166.666666666682
+FootBin	-5454.383333333595
+AFL	-5460.500000000313
+Iambic	-5463.916666666667
+AFR	-5464.71666666695
+Main-R	-5650.96666666693
+WSP	-12312.916666666315
+
+7 words not (fully) learned in evaluation (target, learned form, (learned parse), count):
+[L1 H L2 H L] [L1 H2 L H2 L] /(L1) (H2 L) (H2 L)/
+[L1 L L2 H L] [L1 L2 L H2 L] /(L1) (L2 L) (H2 L)/
+[L1 H L] [L1 H2 L] /(L1) (H2 L)/
+[L1 L L] [L1 L2 L] /(L1) (L2 L)/
+[L1 L L2 L L2 L L] [L1 L2 L L2 L L2 L] /(L1) (L2 L) (L2 L) (L2 L)/
+[L1 H L2 L L] [L1 H2 L L2 L] /(L1) (H2 L) (L2 L)/
+[L1 L L2 L L] [L1 L2 L L2 L] /(L1) (L2 L) (L2 L)/

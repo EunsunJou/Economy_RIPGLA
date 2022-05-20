@@ -1,0 +1,20 @@
+RIP/OT-GLA learning results
+Algorithm: Original Configuration
+Grammar changed 110/62000 times
+Plasticity: 1.0
+Noise: 2.0
+Constraints and ranking values
+WSP	104.7
+FootBin	103.24999999999999
+WFL	102.99999999999997
+Nonfinal	93.30000000000001
+AFL	92.53333333333329
+Trochaic	91.94999999999997
+AFR	90.24999999999996
+Main-R	84.48333333333333
+Iambic	80.38333333333334
+WFR	77.2
+Main-L	71.49999999999999
+Parse	67.44999999999997
+
+No errors found in evaluation

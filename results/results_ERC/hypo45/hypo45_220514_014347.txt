@@ -1,0 +1,66 @@
+RIP/OT-GLA learning results
+Algorithm: Amended(LW) Configuration
+Grammar changed 39553/62000 times
+Plasticity: 1.0
+Noise: 2.0
+Constraints and ranking values
+Trochaic	99.66666666666666
+Nonfinal	-3069.057142857126
+WFR	-3072.249999999958
+FootBin	-3772.4571428572035
+Iambic	-6510.266666666748
+AFL	-6517.29047619152
+AFR	-6519.500000000545
+Parse	-6521.27380952441
+Main-L	-9555.240476190704
+Main-R	-9558.050000000083
+WSP	-12731.557142856918
+WFL	-16771.72380952327
+Overt forms that were never learned:[H H1 L H H]
+[H H1 H L L]
+[L L1 H H L]
+[H H1 L H L]
+[L L1 L H H]
+[H H1 H L H]
+[L L1 H L L]
+[H H1 H H H]
+[L L1 H H H]
+[L L1 H L H]
+[L L1 L L H]
+[L L1 L L L L L]
+[L L1 L L L]
+
+33 words not (fully) learned in evaluation (target, learned form, (learned parse), count):
+[L L1 L] [L1 L L] /(L1 L) L/
+[L L1 H H] [L L H1 H] /L L (H1) H/
+[H H1 L L L] [H1 H L L L] /(H1) H L L L/
+[H H1 H L L] [H1 H H L L] /(H1) H H L L/
+[L L1 H] [L1 L H] /(L1 L) H/
+[L L1 L L] [L1 L L L] /(L1 L) L L/
+[L L1 H L H] [L L H1 L H] /L L (H1) L H/
+[L L1 L L L L] [L1 L L L L L] /(L1 L) L L L L/
+[L H1] [L1 H] /(L1) H/
+[H H1 L H H] [H1 H L H H] /(H1) H L H H/
+[H H1 L H] [H1 H L H] /(H1) H L H/
+[H H1 L L] [H1 H L L] /(H1) H L L/
+[L L1 L H H] [L L L H1 H] /L L L (H1) H/
+[L L1 H L L] [L L H1 L L] /L L (H1) L L/
+[H H1 H H H] [H1 H H H H] /(H1) H H H H/
+[H H1] [H1 H] /(H1) H/
+[H H1 L L H] [H1 H L L H] /(H1) H L L H/
+[H H1 L] [H1 H L] /(H1) H L/
+[L L1 H H L] [L L H1 H L] /L L (H1) H L/
+[L L1 H L] [L L H1 L] /L L (H1) L/
+[H H1 L H L] [H1 H L H L] /(H1) H L H L/
+[L L1 H H H] [L L H1 H H] /L L (H1) H H/
+[H H1 H H] [H1 H H H] /(H1) H H H/
+[H H1 H] [H1 H H] /(H1) H H/
+[L L1 L H L] [L L L H1 L] /L L L (H1) L/
+[L L1 L H] [L1 L L H] /(L1 L) L H/
+[H H1 H L] [H1 H H L] /(H1) H H L/
+[H H1 H L H] [H1 H H L H] /(H1) H H L H/
+[L L1 L L H] [L1 L L L H] /(L1 L) L L H/
+[H H1 H H L] [H1 H H H L] /(H1) H H H L/
+[L L1 L L L L L] [L1 L L L L L L] /(L1 L) L L L L L/
+[L L1 L L L] [L1 L L L L] /(L1 L) L L L/
+[L L1] [L1 L] /(L1) L/

@@ -1,0 +1,46 @@
+File type = "ooTextFile"
+Object class = "OTGrammar"
+
+<OptimalityTheory>
+0 ! leak
+9 constraints
+constraint [1]: "Onset" 100 100 1 ! Ons
+constraint [2]: "MaxIO(V)" 100 100 1 ! MaxV
+constraint [3]: "*LowGlide" 100 100 1 ! *LG
+constraint [4]: "IdentIO[low]" 100 100 1 ! ID[low]
+constraint [5]: "*[?C" 100 100 1 ! *[?C
+constraint [6]: "MaxOO(?)" 100 100 1 ! MaxOO?
+constraint [7]: "DepIO(?)" 100 100 1 ! Dep?
+constraint [8]: "IdentIO[syl]" 100 100 1 ! ID[syl]
+constraint [9]: "Linearity" 100 100 1 ! Lin
+constraint [10]: "*?]" 100 100 1 ! *?]
+constraint [11]: "MaxIO(?)" 100 100 1 ! Max?
+
+
+0 fixed rankings
+
+4 tableaus
+input [1]: "/pa?lak/" 4
+   candidate [1]: "[pa.lak]" 	0 0 0 0 0 0 0 0 0 0 1
+   candidate [2]: "[pa.?lak]"	0 0 0 0 1 0 0 0 0 0 0
+   candidate [3]: "[pal.?ak]"	0 0 0 0 0 0 0 0 1 0 0
+   candidate [4]: "[pa?.lak]"	0 0 0 0 0 0 0 0 0 1 0
+input [2]: "/?ajo-en/" 4
+   candidate [1]: "[?aj.wen]"	0 0 0 0 0 0 0 1 0 0 0 
+   candidate [2]: "[?a.jen]"	0 1 0 0 0 0 0 0 0 0 0
+   candidate [3]: "[?a.jo.en]"	1 0 0 0 0 0 0 0 0 0 0
+   candidate [4]: "[?a.jo.?en]" 0 0 0 0 0 0 1 0 0 0 0
+input [3]: "/basa-en/" 5
+   candidate [1]: "[ba.sa.?en]" 0 0 0 0 0 0 1 0 0 0 0
+   candidate [2]: "[bas.Aen]"	0 0 1 0 0 0 0 1 0 0 0
+   candidate [3]: "[bas.wen]"	0 0 0 1 0 0 0 1 0 0 0
+   candidate [4]: "[ba.sen]"	0 1 0 0 0 0 0 0 0 0 0
+   candidate [5]: "[ba.sa.en]"  1 0 0 0 0 0 0 0 0 0 0
+input [4]: "/ta?o-en/" 7
+   candidate [1]: "[taw.?en]"	0 0 0 0 0 0 0 1 1 0 0
+   candidate [2]: "[ta?.wen]"	0 0 0 0 0 1 0 1 0 0 1
+   candidate [3]: "[ta.?en]"	0 1 0 0 0 0 0 0 0 0 0
+   candidate [4]: "[ta.?o.en]"	1 0 0 0 0 0 0 0 0 0 0
+   candidate [5]: "[ta.?o.?en]" 0 0 0 0 0 0 1 0 0 0 0
+   candidate [6]: "[ta.?wen]"	0 0 0 0 1 0 0 1 0 0 0
+   candidate [7]: "[ta?.wen]"  	0 0 0 0 0 0 0 1 0 1 0

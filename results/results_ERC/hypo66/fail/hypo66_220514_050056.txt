@@ -1,0 +1,71 @@
+RIP/OT-GLA learning results
+Algorithm: Amended(LW) Configuration
+Grammar changed 43653/62000 times
+Plasticity: 1.0
+Noise: 2.0
+Constraints and ranking values
+Trochaic	-117.25
+Iambic	-2302.2166666666667
+WFL	-6942.042857142995
+Nonfinal	-6945.826190477073
+FootBin	-6946.109523810656
+Main-R	-6947.600000000764
+Parse	-7931.176190476475
+AFR	-7934.514285715537
+WSP	-9881.56190476177
+WFR	-10581.833333332892
+AFL	-13494.242857141024
+Main-L	-13501.626190474573
+Overt forms that were never learned:[L H2 H H1 H]
+[L H2 H H1 L]
+[L H2 H L1 L]
+[L H2 H L H1]
+
+47 words not (fully) learned in evaluation (target, learned form, (learned parse), count):
+[L2 L1 L] [L1 L L] /(L1) L L/
+[H2 L H L H1] [H2 L H1 L H] /(H2) L (H1) L H/
+[L2 L L L L L1 L] [L1 L L L L L L] /(L1) L L L L L L/
+[L2 L L H1] [L1 L L H] /(L1) L L H/
+[L H2 L1 L] [L2 H1 L L] /(L2) (H1) L L/
+[L2 L L1 L] [L1 L L L] /(L1) L L L/
+[L H2 L L1 L] [L2 H1 L L L] /(L2) (H1) L L L/
+[L H2 L H1] [L2 H1 L H] /(L2) (H1) L H/
+[H2 L L L H1] [H1 L L L H] /(H1) L L L H/
+[L H2 H1 L] [L2 H2 H1 L] /(L2) (H2) (H1) L/
+[H2 H H L H1] [H2 H2 H1 L H] /(H2) (H2) (H1) L H/
+[H2 L L H1] [H1 L L H] /(H1) L L H/
+[H2 H H L1 L] [H2 H2 H1 L L] /(H2) (H2) (H1) L L/
+[H2 L H L1 L] [H2 L H1 L L] /(H2) L (H1) L L/
+[L H2 H L1 L] [L2 H2 H1 L L] /(L2) (H2) (H1) L L/
+[L2 L H H1 H] [L2 L H2 H1 H] /(L2) L (H2) (H1) H/
+[L2 L L L1 L] [L1 L L L L] /(L1) L L L L/
+[L2 L H L1 L] [L2 L H1 L L] /(L2) L (H1) L L/
+[H2 L H H1 L] [H2 L H2 H1 L] /(H2) L (H2) (H1) L/
+[L2 L H1] [L1 L H] /(L1) L H/
+[H2 L L1 L] [H1 L L L] /(H1) L L L/
+[H2 H L L1 L] [H2 H1 L L L] /(H2) (H1) L L L/
+[H2 H H1 L] [H2 H2 H1 L] /(H2) (H2) (H1) L/
+[H2 H L H1 L] [H2 H2 L H1 L] /(H2) (H2) L (H1) L/
+[L2 L L L H1] [L1 L L L H] /(L1) L L L H/
+[H2 L H1] [H1 L H] /(H1) L H/
+[H2 H L1 L] [H2 H1 L L] /(H2) (H1) L L/
+[L2 L H H1 L] [L2 L H2 H1 L] /(L2) L (H2) (H1) L/
+[L H1] [L1 H] /(L1) H/
+[H2 H H H1 H] [H2 H2 H2 H1 H] /(H2) (H2) (H2) (H1) H/
+[H2 H L H1 H] [H2 H2 L H1 H] /(H2) (H2) L (H1) H/
+[L H2 L H1 L] [L2 H2 L H1 L] /(L2) (H2) L (H1) L/
+[L2 L H L H1] [L2 L H1 L H] /(L2) L (H1) L H/
+[H2 H L L H1] [H2 H1 L L H] /(H2) (H1) L L H/
+[L H2 L H1 H] [L2 H2 L H1 H] /(L2) (H2) L (H1) H/
+[H2 H H H1 L] [H2 H2 H2 H1 L] /(H2) (H2) (H2) (H1) L/
+[H2 L1 L] [H1 L L] /(H1) L L/
+[L H2 H L H1] [L2 H2 H1 L H] /(L2) (H2) (H1) L H/
+[H2 L H H1 H] [H2 L H2 H1 H] /(H2) L (H2) (H1) H/
+[L H2 H H1 H] [L2 H2 H2 H1 H] /(L2) (H2) (H2) (H1) H/
+[L H2 H H1 L] [L2 H2 H2 H1 L] /(L2) (H2) (H2) (H1) L/
+[H2 H L H1] [H2 H1 L H] /(H2) (H1) L H/
+[H2 L L L1 L] [H1 L L L L] /(H1) L L L L/
+[L H2 L L H1] [L2 H1 L L H] /(L2) (H1) L L H/
+[L H2 H1 H] [L2 H2 H1 H] /(L2) (H2) (H1) H/
+[L2 L L L L1 L] [L1 L L L L L] /(L1) L L L L L/
+[H2 H H1 H] [H2 H2 H1 H] /(H2) (H2) (H1) H/

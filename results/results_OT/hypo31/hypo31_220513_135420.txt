@@ -1,0 +1,54 @@
+RIP/OT-GLA learning results
+Algorithm: Original Configuration
+Grammar changed 34328/62000 times
+Plasticity: 1.0
+Noise: 2.0
+Constraints and ranking values
+Main-L	101.7
+WFL	100.2
+Trochaic	94.41666666666666
+Parse	-2144.266666666714
+Nonfinal	-2144.316666666691
+WFR	-2149.6333333333796
+FootBin	-5506.233333333601
+Iambic	-5510.333333333334
+AFR	-5512.150000000289
+AFL	-5513.15000000032
+Main-R	-5703.56666666692
+WSP	-12309.66666666633
+
+34 words not (fully) learned in evaluation (target, learned form, (learned parse), count):
+[L1 L L2 H L] [L1 L L2 H L2] /(L1 L) (L2 H) (L2)/
+[H1 L2 H H2 L] [H1 L H2 H2 L] /(H1 L) (H2) (H2 L)/
+[H1 H] [H1 H2] /(H1) (H2)/
+[H1 H2 H H2 L] [H1 H2 H2 H2 L] /(H1) (H2) (H2) (H2 L)/
+[L1 H H2 H] [L1 H H2 H2] /(L1 H) (H2) (H2)/
+[H1 H2 L L2 H] [H1 H2 L2 L H2] /(H1) (H2) (L2 L) (H2)/
+[L1 L L2 L L] [L1 L L2 L L2] /(L1 L) (L2 L) (L2)/
+[H1 L2 H L2 H] [H1 L H2 L H2] /(H1 L) (H2 L) (H2)/
+[L1 H H2 L2 H] [L1 H H2 L H2] /(L1 H) (H2 L) (H2)/
+[H1 H2 H] [H1 H2 H2] /(H1) (H2) (H2)/
+[L1 H L2 H L] [L1 H L2 H L2] /(L1 H) (L2 H) (L2)/
+[L1 H H2 H2 H] [L1 H H2 H2 H2] /(L1 H) (H2) (H2) (H2)/
+[H1 L2 H H2 H] [H1 L H2 H2 H2] /(H1 L) (H2) (H2) (H2)/
+[H1 L2 L L2 H] [H1 L L2 L H2] /(H1 L) (L2 L) (H2)/
+[H1 H2 H L2 L] [H1 H2 H2 L2 L] /(H1) (H2) (H2) (L2 L)/
+[L1 L L2 L L2 L L] [L1 L L2 L L2 L L2] /(L1 L) (L2 L) (L2 L) (L2)/
+[H1 L H2 H] [H1 L H2 H2] /(H1 L) (H2) (H2)/
+[H1 L2 L H2 H] [H1 L2 L H2 H2] /(H1) (L2 L) (H2) (H2)/
+[H1 H2 H H2 H] [H1 H2 H2 H2 H2] /(H1) (H2) (H2) (H2) (H2)/
+[H1 H H2 H] [H1 H2 H2 H2] /(H1) (H2) (H2) (H2)/
+[L1 L H2 H] [L1 L H2 H2] /(L1 L) (H2) (H2)/
+[L1 L H2 H2 H] [L1 L H2 H2 H2] /(L1 L) (H2) (H2) (H2)/
+[H1 H L2 L] [H1 H2 L2 L] /(H1) (H2) (L2 L)/
+[H1 H2 L H2 H] [H1 H2 L H2 H2] /(H1) (H2 L) (H2) (H2)/
+[L1 L L] [L1 L L2] /(L1 L) (L2)/
+[H1 H H2 L] [H1 H2 H2 L] /(H1) (H2) (H2 L)/
+[L1 L H2 L2 H] [L1 L H2 L H2] /(L1 L) (H2 L) (H2)/
+[H1 L2 H L2 L] [H1 L H2 L2 L] /(H1 L) (H2) (L2 L)/
+[L1 H L] [L1 H L2] /(L1 H) (L2)/
+[H1 H L2 H] [H1 H2 L H2] /(H1) (H2 L) (H2)/
+[H1 H2 H L2 H] [H1 H2 H2 L H2] /(H1) (H2) (H2 L) (H2)/
+[L1 H L2 L L] [L1 H L2 L L2] /(L1 H) (L2 L) (L2)/
+[H1 L2 H] [H1 L H2] /(H1 L) (H2)/
+[H1 L L2 H] [H1 L2 L H2] /(H1) (L2 L) (H2)/

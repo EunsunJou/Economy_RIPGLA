@@ -1,0 +1,59 @@
+RIP/OT-GLA learning results
+Algorithm: Original Configuration
+Grammar changed 32546/62000 times
+Plasticity: 1.0
+Noise: 2.0
+Constraints and ranking values
+Iambic	102.78333333333333
+Trochaic	100.83333333333333
+Nonfinal	-5373.56666666735
+FootBin	-5373.883333334006
+AFR	-5374.366666667093
+Parse	-5378.0
+WFL	-5964.083333333323
+Main-R	-7831.166666667698
+AFL	-9499.816666666839
+WSP	-10309.766666666426
+WFR	-11004.866666666056
+Main-L	-11723.09999999872
+
+39 words not (fully) learned in evaluation (target, learned form, (learned parse), count):
+[H L H L H1] [H L H1 L H] /H L (H1) L H/
+[H L L L H1] [H1 L L L H] /(H1) L L L H/
+[H L H H H1] [H L H H1 H] /H L H (H1) H/
+[L H L L1 L] [L H1 L L L] /L (H1) L L L/
+[H H H H H1] [H H H H1 H] /H H H (H1) H/
+[H L L H1] [H1 L L H] /(H1) L L H/
+[H H L1 L] [H H1 L L] /H (H1) L L/
+[L H H L1 L] [L H H1 L L] /L H (H1) L L/
+[H L L L1 L] [H1 L L L L] /(H1) L L L L/
+[L H H H H1] [L H H H1 H] /L H H (H1) H/
+[L H L L H1] [L H1 L L H] /L (H1) L L H/
+[L L H1] [L L1 H] /L (L1) H/
+[H L H H1] [H L H1 H] /H L (H1) H/
+[L L L L H1] [L L L L1 H] /L L L (L1) H/
+[H L L H H1] [H L L H1 H] /H L L (H1) H/
+[H H L H H1] [H H L H1 H] /H H L (H1) H/
+[L L L H1] [L L L1 H] /L L (L1) H/
+[H H L H1] [H H1 L H] /H (H1) L H/
+[H H L L1 L] [H H1 L L L] /H (H1) L L L/
+[H L H1] [H1 L H] /(H1) L H/
+[L L H L H1] [L L H1 L H] /L L (H1) L H/
+[L H L H H1] [L H L H1 H] /L H L (H1) H/
+[L H H1] [L H1 H] /L (H1) H/
+[H H H H1] [H H H1 H] /H H (H1) H/
+[H H H1] [H H1 H] /H (H1) H/
+[L H H H1] [L H H1 H] /L H (H1) H/
+[L H H L H1] [L H H1 L H] /L H (H1) L H/
+[H L H L1 L] [H L H1 L L] /H L (H1) L L/
+[L H L1 L] [L H1 L L] /L (H1) L L/
+[L L H H1] [L L H1 H] /L L (H1) H/
+[L L H H H1] [L L H H1 H] /L L H (H1) H/
+[L L H L1 L] [L L H1 L L] /L L (H1) L L/
+[H H H L H1] [H H H1 L H] /H H (H1) L H/
+[L L L H H1] [L L L H1 H] /L L L (H1) H/
+[H H H L1 L] [H H H1 L L] /H H (H1) L L/
+[H L L1 L] [H1 L L L] /(H1) L L L/
+[H L1 L] [H1 L L] /(H1) L L/
+[L H L H1] [L H1 L H] /L (H1) L H/
+[H H L L H1] [H H1 L L H] /H (H1) L L H/
