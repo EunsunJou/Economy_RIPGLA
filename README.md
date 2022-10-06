@@ -1,6 +1,6 @@
 # Economy_RIPGLA
 
-This repository contains code and results files from Eunsun Jou's second MIT linguistics generals paper.
+This repository contains code and results files from my work on economy-based amendment of Robust Interpretive Parsing.
 Specifically, it contains:
 
 1. A python implementation of the RIP/GLA, available as the module gla.py
