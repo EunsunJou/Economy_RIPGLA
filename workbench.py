@@ -45,6 +45,7 @@ except IndexError:
     # When running this code, please choose a language number to learn
     print("Error: Please specify the language number to be learned by the GLA.")
 else:
+    # Log all other errors to log file.
     logging.exception("message")
 
 
