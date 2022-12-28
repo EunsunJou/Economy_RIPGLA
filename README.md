@@ -19,8 +19,8 @@ Specifically, it contains:
 
 1. A python implementation of the RIP/OT-GLA, available as the module gla.py
 2. An economy-based amendment to the algorithm (the RIP/ERC-GLA), also available in the gla.py module
-3. A set of 66 randomly sampled abstract metrical stress languages, available in /languages
-4. Files resulting from learning trials using the RIP/GLA and its amended version, available in /results
+3. A set of 66 randomly sampled abstract metrical stress languages, available in [languages](/languages)
+4. Files resulting from learning trials using the RIP/GLA and its amended version, available in [results](/results)
 
 gla.py is intended to be loaded as a module in a separate python script.
 worbench.py is an example script that loads the module and actually does the learning.
