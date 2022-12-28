@@ -1,11 +1,14 @@
 ## Update on December 28, 2022 (reflected in Proceedings of AMP 2022)
 
-1. Removed two languages (original Lang 1 and Lang 2) because there was overlap.
-2. Relabeled Lang 67 and Lang 68 as "Lang 1" and "Lang 2" respectively, so that the very last label would be Lang 66. This avoids confusion about total number of languages.
+**1. Removed two languages (original Lang 1 and Lang 2) because there was overlap.**
 
-After presentation of the study at AMP 2022 in October 2022, I realized that two of the 68 languages initially reported (labeled Lang 1 and Lang 2) were not the ones randomly sampled with Praat, but ones I created separately at an earlier stage of the project. Since they happened to be identical with Lang 14 and Lang 8 respectively, I excluded Lang 1 and Lang 2 and recalculated the mean performance and mean difference in number of grammar changes for **66 languages**. I also renamed Lang 67 and Lang 68 to Lang 1 and 2 to avoid confusion about the total number of languages. (The old Lang 1 and Lang 2 are still preserved, but are cleraly labeled "EXCLUDED" everywhere.)
+After presentation of the study at AMP 2022 in October 2022, I realized that two of the 68 languages initially reported (Lang 1 and Lang 2) were not the ones randomly sampled with Praat, but ones I created separately at an earlier stage of the project. Since they happened to be identical with Lang 14 and Lang 8 respectively, I excluded Lang 1 and Lang 2 and recalculated the mean performance and mean difference in number of grammar changes for a total of 66 languages.
 
-***This change does not affect the crucial findings nor the general conclusion of this study***, but I believe it is a more accurate reflection of the nature of the project.
+**2. Re-labeled Lang 67 and Lang 68 as the new "Lang 1" and "Lang 2" respectively.**
+
+I also re-labeled Lang 67 and Lang 68, the last two languages, as the new Lang 1 and 2 in the .xlsx and .csv files in the [results folder and its subdirectories](results/). This makes the very last label in the word list "Lang 66", hence avoiding confusion about the total number of languages in the proceedings paper. (Results from original Lang 1 and original Lang 2 are still preserved, but the directories are clearly labeled "EXCLUDED".)
+
+***This update does not affect the crucial findings about Lang 55 and lang 3, nor does it change the general conclusion of this study***. But I believe it is a more accurate reflection of the nature of the project.
 
 The older repository is preserved here: https://github.com/EunsunJou/Economy_RIPGLA_Old
 
