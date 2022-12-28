@@ -6,7 +6,7 @@ After presentation of the study at AMP 2022 in October 2022, I realized that two
 
 **2. Re-labeled Lang 67 and Lang 68 as the new "Lang 1" and "Lang 2" respectively.**
 
-I also re-labeled Lang 67 and Lang 68, the last two languages, as the new Lang 1 and 2 in the .xlsx and .csv files in the [results folder and its subdirectories](results/). This makes the very last label in the word list "Lang 66", hence avoiding confusion about the total number of languages in the proceedings paper. (Results from original Lang 1 and original Lang 2 are still preserved, but the directories are clearly labeled "EXCLUDED".)
+I also re-labeled Lang 67 and Lang 68, the last two languages, as the new Lang 1 and 2 in the .xlsx and .csv files in the [results folder and its subdirectories](results/). This makes the very last label in the word list "Lang 66", hence avoiding confusion about the total number of languages -- especially in the proceedings paper. (Results from original Lang 1 and original Lang 2 are still preserved, but the directories are clearly labeled "EXCLUDED".)
 
 ***This update does not affect the crucial findings about Lang 55 and lang 3, nor does it change the general conclusion of this study***. But I believe it is a more accurate reflection of the nature of the project.
 
