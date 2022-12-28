@@ -1,3 +1,7 @@
+hypo01,success,24
+hypo01,fail,6
+hypo02,success,17
+hypo02,fail,13
 hypo03,success,17
 hypo03,fail,13
 hypo04,success,29
@@ -126,7 +130,3 @@ hypo65,success,28
 hypo65,fail,2
 hypo66,success,16
 hypo66,fail,14
-hypo67,success,24
-hypo67,fail,6
-hypo68,success,17
-hypo68,fail,13
