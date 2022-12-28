@@ -1,8 +1,10 @@
-# Update on December 28, 2022 (reflected in Proceedings of AMP 2022)
+## Update on December 28, 2022 (reflected in Proceedings of AMP 2022)
 
-After presentation of the study at AMP 2022 in October 2022, I realized that two of the 68 languages initially reported (Lang 1 and Lang 2) were not the ones randomly sampled with Praat, but ones I created separately at an earlier stage of the project. Since they were identical to Lang 14 and Lang 8 respectively, I excluded Lang 1 and Lang 2 and recalculated the mean performance and mean difference in number of grammar changes for 66 languages. This change does not affect the crucial findings nor the general conclusion of this study, but I believe it is a more accurate reflection of the project.
+After presentation of the study at AMP 2022 in October 2022, I realized that two of the 68 languages initially reported (labeled Lang 1 and Lang 2) were not the ones randomly sampled with Praat, but ones I created separately at an earlier stage of the project. Since they were identical to Lang 14 and Lang 8 respectively, I excluded Lang 1 and Lang 2 and recalculated the mean performance and mean difference in number of grammar changes for 66 languages. I also renamed Lang 67 and Lang 68 to Lang 1 and 2 to avoid confusion about the total number of languages. (The old and new Lang 1 and Lang 2 are clearly distinghished in directories. Labels in result files are also edited accordingly.)
 
-I do have the older repository preserved here: https://github.com/EunsunJou/Economy_RIPGLA_Old
+*This change does not affect the crucial findings nor the general conclusion of this study*, but I believe it is a more accurate reflection of the nature of the project.
+
+The older repository is preserved here: https://github.com/EunsunJou/Economy_RIPGLA_Old
 
 # Economy_RIPGLA
 
